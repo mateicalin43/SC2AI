@@ -1,5 +1,5 @@
-u need sc2
-pip install sc2 
+u need cv2
+(openCV) 
 
 u will need to download starcraft maps and extract them in the mps folder
 if u don t have a maps folder just create it
